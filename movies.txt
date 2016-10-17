@@ -4,5 +4,6 @@ Hvaða mynd er þetta
 Sódóma
 Eitthvað bull
 Enn meira bull til prufa pull request
-ble ble ble branch2
-
+ble ble ble
+þetta er branch 1
+og þett er brach 2
